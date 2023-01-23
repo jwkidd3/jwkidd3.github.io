@@ -1,4 +1,3 @@
-<img src="dist/img/circle-gdi-logo.png" alt="GDI Logo" class="noborder"/>
 
 # Introduction to DevOps
 
